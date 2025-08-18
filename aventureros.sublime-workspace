@@ -1,0 +1,773 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wh",
+				"white"
+			],
+			[
+				"lef",
+				"LEFT"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"prin",
+				"print_r()"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"_",
+				"$_POST"
+			],
+			[
+				"pri",
+				"print_r()"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"img",
+				"img-link"
+			],
+			[
+				"sy",
+				"style"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"ex",
+				"exit()"
+			],
+			[
+				"t",
+				"target"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"i",
+				"initial"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"arg",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"bot",
+				"border-bottom"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"g",
+				"grey"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"arr",
+				"array()"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"li",
+				"li"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "guardar_acampante.php",
+			"settings":
+			{
+				"buffer_size": 16960,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 56.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp2/htdocs/aventureros"
+	],
+	"file_history":
+	[
+		"/C/xampp2/htdocs/site/mostrar.php",
+		"/C/Users/Leonardo Fuentes/Documents/acueca/envia_datos.php",
+		"/C/Users/Leonardo Fuentes/Documents/acueca/my-script-old.php",
+		"/C/xampp2/htdocs/hidraulicpower/blog/wp-content/themes/rttheme17/css/rt-css-framework.css",
+		"/C/xampp2/htdocs/hidraulicpower/menu.php",
+		"/C/xampp2/htdocs/hidraulicpower/index.php",
+		"/C/xampp2/htdocs/hidraulicpower/ferroviario.php",
+		"/C/xampp2/htdocs/hidraulicpower/ferrocarril.php",
+		"/C/xampp2/htdocs/hidraulicpower/contacto.php",
+		"/C/xampp2/htdocs/hidraulicpower/procesar_formulario.php",
+		"/C/xampp2/htdocs/hidraulicpower/electrico.php",
+		"/C/xampp2/htdocs/sistema/index.php",
+		"/C/xampp2/htdocs/sistema/verificar_cedula.php",
+		"/C/xampp2/htdocs/sistema/dashboard.php",
+		"/C/xampp2/htdocs/sistema/aprobar_acampante_modal.php",
+		"/C/xampp2/htdocs/sistema/conexion.php",
+		"/C/xampp2/htdocs/sistema/logout.php",
+		"/C/xampp2/htdocs/sistema/mis_acampantes.php",
+		"/C/xampp2/htdocs/sistema/obtener_acampantes.php",
+		"/C/xampp2/htdocs/sistema/cargar_modal_acampante.php",
+		"/C/xampp2/htdocs/sistema/actualizar_acampante.php",
+		"/C/xampp2/htdocs/sistema/guardar_acampante.php",
+		"/C/xampp2/htdocs/sistema/bcv.php",
+		"/C/xampp2/htdocs/sistema/registro_ajax.php",
+		"/C/xampp2/htdocs/sistema/alta_acampante.php",
+		"/C/xampp2/htdocs/sistema/obtener_opciones.php",
+		"/C/xampp2/htdocs/sistema/activar.php",
+		"/C/xampp2/htdocs/sistema/login.php",
+		"/C/xampp2/htdocs/sistema/links-recursos.php",
+		"/C/xampp2/htdocs/sistema/aprobar_empleados.php",
+		"/C/xampp2/htdocs/sistema/aprobar_acampante.php",
+		"/C/xampp2/htdocs/sistema/get_pagos_por_acampante.php",
+		"/C/xampp2/htdocs/sistema/get_pagos_acampante_aprobados.php",
+		"/C/xampp2/htdocs/sistema/empleados_aprobados.php",
+		"/C/xampp2/htdocs/sistema/get_acampantes_por_pago.php",
+		"/C/xampp2/htdocs/sistema/pre_contabilidad.php",
+		"/C/xampp2/htdocs/sistema/aprobar_pago_simple.php",
+		"/C/xampp2/htdocs/sistema/eliminar_empleado.php",
+		"/C/xampp2/htdocs/sistema/registro_de_pagos.php",
+		"/C/xampp2/htdocs/sistema/obtener_saldos_favor.php",
+		"/C/xampp2/htdocs/sistema/procesar_pago.php",
+		"/C/xampp2/htdocs/sistema/elimina_empleado.php",
+		"/C/xampp2/htdocs/sistema/editar_perfil.php",
+		"/C/xampp2/htdocs/sistema/actualizar_perfil.php",
+		"/C/xampp2/htdocs/sistema/usuarios.php",
+		"/C/xampp2/htdocs/sistema/gestion_de_tablas.php",
+		"/C/xampp2/htdocs/sistema/cargar_tabla_dinamica.php",
+		"/C/xampp2/htdocs/sistema/cargar_modal_dinamico.php",
+		"/C/xampp2/htdocs/sistema/js/gestion_de_tablas.js",
+		"/C/xampp2/htdocs/sistema/crud_dinamico.php",
+		"/C/xampp2/htdocs/sistema/cargar_modal_usuario.php",
+		"/C/xampp2/htdocs/sistema/editar_usuario.php",
+		"/C/xampp2/htdocs/sistema/js/funciones.js",
+		"/C/xampp2/htdocs/sistema/valida_transaccion.php",
+		"/C/xampp2/htdocs/sistema/get_opciones.php",
+		"/C/xampp2/htdocs/hidraulicpower/siderurgico.php",
+		"/C/xampp2/htdocs/hidraulicpower/blog/wp-content/themes/rttheme17/css/style.css",
+		"/C/Users/Leonardo Fuentes/Downloads/drive-download-20240917T005346Z-001/SECTOR 147/MODELO SECTOR 147/SECTOR 147.EPACONF",
+		"/C/Users/Leonardo Fuentes/Downloads/drive-download-20240917T005346Z-001/SECTOR 149/MODELO/MODELO_GENERAL_new.EPACONF",
+		"/C/Users/Leonardo Fuentes/Downloads/drive-download-20240917T005346Z-001/SECTOR 147/MODELO SECTOR 147/MACRO_LOARQUE.EPACONF",
+		"/C/xampp2/htdocs/hidraulicpower/mineria.php",
+		"/C/xampp2/htdocs/hidraulicpower/mineral.php",
+		"/C/xampp2/htdocs/hidraulicpower/aluminio.php",
+		"/C/xampp2/htdocs/site/admin/agregar_registro.php",
+		"/C/xampp2/htdocs/site/admin/editar_registro.php",
+		"/C/xampp2/htdocs/site/admin/datos.js.php",
+		"/C/xampp2/htdocs/site/categoria.php",
+		"/C/xampp2/htdocs/site/include.script.php",
+		"/C/xampp2/htdocs/site/carga.php",
+		"/C/xampp2/htdocs/site/menu.php",
+		"/C/xampp2/htdocs/site/clientes_div.php",
+		"/C/xampp2/htdocs/site/admin/conexion.php",
+		"/C/xampp2/htdocs/site/admin/select_table.php",
+		"/C/xampp2/htdocs/site/admin/menu.php",
+		"/C/xampp2/htdocs/site/admin/set_table.php",
+		"/C/xampp2/htdocs/site/admin/manage_table.php",
+		"/C/xampp2/htdocs/site/admin/style.css",
+		"/C/xampp2/htdocs/site/css/style.css",
+		"/C/xampp2/htdocs/site/admin/prueba.php",
+		"/C/xampp2/htdocs/site/admin/functions.php",
+		"/C/xampp2/htdocs/site/admin/index.php",
+		"/C/xampp2/htdocs/site/admin/old/manage_table.php",
+		"/C/xampp2/htdocs/site/admin/cambiar_contraseña.php",
+		"/C/xampp2/htdocs/sistema/gestion_de_tablas_ajax.php",
+		"/C/xampp2/htdocs/sistema/alta_empleado.php",
+		"/C/Users/Leonardo Fuentes/Downloads/Gestired 4.1-20240915T005647Z-001/Gestired 4.1/ZONA CENTRO LOMAS/MACRO SECTOR CENTRO LOMAS/MODELO/2.EPACONF",
+		"/C/Users/Leonardo Fuentes/Desktop/MACRO SECTOR MIRAFLORES/MACRO SECTOR MIRAFLORES/MODELO/MACRO_MIRAFLORES.EPACONF",
+		"/C/xampp2/htdocs/sistema/get_pagos_acampantes_aprobados.php",
+		"/C/xampp2/htdocs/sistema/aprobar_empleado.php",
+		"/C/xampp2/htdocs/sistema/guarda_empleado.php",
+		"/C/xampp2/htdocs/sistema/editar_empleado.php",
+		"/C/xampp2/htdocs/sistema/modal_empleado.php",
+		"/C/Users/Leonardo Fuentes/AppData/Local/Temp/MACRO SECTOR LOARQUE.INP",
+		"/C/Users/Leonardo Fuentes/Downloads/drive-download-20240917T005346Z-001/MACRO SECTOR LOARQUE/MODELO/MACRO_LOARQUE.EPACONF",
+		"/C/Users/Leonardo Fuentes/AppData/Local/Temp/MACRO SECTOR CENTRO LOMAS_2.INP",
+		"/C/Users/Leonardo Fuentes/Desktop/MACRO SECTOR CENTRO LOMAS.INP",
+		"/C/Users/Leonardo Fuentes/AppData/Local/Temp/MACRO SECTOR CENTRO LOMAS.rpt",
+		"/C/Users/Leonardo Fuentes/AppData/Local/Temp/MACRO SECTOR CENTRO LOMAS.INP",
+		"/C/Users/Leonardo Fuentes/AppData/Local/Temp/MACRO SECTOR CENTRO LOMAS.out",
+		"/C/xampp2/htdocs/sistema/actualiza_empleado.php",
+		"/C/xampp2/htdocs/sistema/dashboard",
+		"/C/xampp2/htdocs/hidraulicpower/div_derecho.php",
+		"/C/xampp2/htdocs/hidraulicpower/js.php",
+		"/C/xampp2/htdocs/site/js/carrousel.js",
+		"/C/xampp2/htdocs/hidraulicpower/pruebamodal.php",
+		"/C/xampp2/htdocs/hidraulicpower/nosotros.php",
+		"/C/xampp2/htdocs/hidraulicpower/google.php",
+		"/C/xampp2/htdocs/hidraulicpower/sub_menu.php",
+		"/C/xampp2/htdocs/hidraulicpower/me",
+		"/C/xampp2/htdocs/site/admin/agregar_registro_old.php",
+		"/C/xampp2/htdocs/site/admin/editar_registro_oldd.php",
+		"/C/xampp2/htdocs/site/productos.php",
+		"/C/xampp2/htdocs/site/producto.php",
+		"/C/xampp2/htdocs/site/conexion.php",
+		"/C/xampp2/htdocs/site/sql_vista.sql",
+		"/C/xampp2/htdocs/site/json_campos.php",
+		"/C/xampp2/htdocs/site/certificacion.php",
+		"/C/xampp2/htdocs/site/js/script.js",
+		"/C/xampp2/htdocs/site/index.php",
+		"/C/xampp2/htdocs/site/admin/ruta.php",
+		"/C/xampp2/htdocs/site/admin/obtener_datos.php",
+		"/C/xampp2/htdocs/site/admin/eliminar_registro.php",
+		"/C/xampp2/htdocs/site/admin/datos.js",
+		"/C/Users/Leonardo Fuentes/Downloads/valvulas (1).sql",
+		"/C/xampp2/htdocs/site/subir_product.php",
+		"/C/xampp2/htdocs/site/admin/modal_n.php",
+		"/C/xampp2/htdocs/site/admin/login.php",
+		"/C/xampp2/htdocs/site/admin/logout.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tablaActual",
+			"form-valor-cuota",
+			" ",
+			"));\n",
+			"region_id",
+			"tienda_id",
+			"zona",
+			" ",
+			"tasa_bcv",
+			"bcv",
+			" ",
+			"pagado",
+			"gestion_de_tablas",
+			" ",
+			"creado_por_id",
+			"acampante_id",
+			"enviarCorreoActivacion",
+			"Error de conexión con el servidor. Inténtelo de nuevo.",
+			"destinatario",
+			"navbar-toggler",
+			",",
+			" ",
+			"Solo administradores pueden registrar pagos",
+			"solo admin",
+			"solos admin",
+			"solos los admin",
+			"}\n",
+			"if ($_SESSION['rol'] !== 'admin') {\n//     header('Location: dashboard.php');\n//     exit;\n// }",
+			"error de con",
+			" ",
+			"id_registro_pago",
+			" ",
+			"id_saldo_a_favor_original",
+			".acampantes-list",
+			"col-1",
+			"e.",
+			"saldo act",
+			"?>",
+			"Empleado",
+			"table table-bordered table-hover dataTable no-footer",
+			"acampan",
+			"insc",
+			"cuota",
+			"tasaBcv",
+			"montoTransaccionBs",
+			"El monto de la transacción",
+			"El monto de la transacción no cubre el pago tota",
+			"required",
+			"bcv",
+			"al procesar la solicitud. Inténtalo de nuevo.",
+			"Tasa de cambio del",
+			"unlink",
+			" ",
+			">",
+			" ",
+			"disabled",
+			"bg-dark",
+			"modal",
+			";\">\n",
+			"linknameid",
+			"Global Wall",
+			"}\n",
+			"0,",
+			"SOURCES",
+			"container",
+			"home",
+			"info_bar",
+			".sidebarwidth",
+			"breadcrumb",
+			"info_bar",
+			"tipo",
+			"focus",
+			"POST",
+			"side",
+			"siderurgico",
+			"focus",
+			"input",
+			"$curren_p",
+			"jquery",
+			"jquery-3",
+			"jquery",
+			"min.js",
+			"arrow.",
+			".margin-b30",
+			"uploadOk",
+			"target_file",
+			".midle-menu",
+			"nom_product",
+			"id_tipo_producto",
+			"showSlide",
+			"campoId",
+			"include 'functions.php';",
+			"$columnas",
+			"menu-item",
+			"$columna=='id_sub_producto' || $columna=='id_tipo_p'",
+			"valvulas",
+			"close",
+			"editar_",
+			"editarModal",
+			"image-container",
+			"editar",
+			"tabla-contenedor",
+			"successModal",
+			"successMensaje",
+			"success",
+			"successMensaje",
+			"successModal",
+			"showSuccess",
+			"img-link",
+			"editar",
+			"data-id",
+			"file_uploaded",
+			"target_file",
+			"columnas",
+			"container-menu",
+			"title-menu",
+			"tabla-contenedor",
+			"acc",
+			"title-menu",
+			"middle-menu",
+			"tipo_sub_producto",
+			"id_sub_producto",
+			"?>",
+			"`",
+			"id_sub_producto",
+			"producto",
+			"(",
+			"(("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"regiones_id",
+			"tiendas_id",
+			"regiones",
+			" ",
+			".",
+			" ",
+			".",
+			"     ",
+			"a.",
+			"Acampante",
+			"",
+			"usd",
+			"",
+			"usd",
+			"      ",
+			"",
+			"0.",
+			"electrico",
+			"nombre_select",
+			"rd-navbar-nav",
+			"$columna=='id_sub_producto' || $columna=='id_tipo_p' || $columna=='id_tipo_producto'",
+			"bombas",
+			"agregar_",
+			"",
+			"valvulas",
+			"",
+			"instrumentacion-y-automatizacion",
+			"items",
+			"<?php echo $url ?>images/",
+			"<?php echo $url ?>",
+			"<?php echo $url ?>images/",
+			"",
+			"Servicios",
+			"",
+			"Hidrico",
+			"19px",
+			"2",
+			"col-md-4-3",
+			"col-md-4-4",
+			"Leer mas",
+			"Hidraulic & Power",
+			"hypca.net",
+			"Hidraulic And Power C.A.",
+			"https://hypca.net/",
+			"25px",
+			"hidraulicpower.com",
+			"blog.hidraulicpower.com",
+			"<div class=\"transparent-line\"></div>\n     <div class=\"transparent-line\" style=\"background: #6C6C6C !important;\"></div>",
+			"<div class=\"transparent-line\"></div>\n<div class=\"transparent-line\"></div><div id=\"container\">\n<div class=\"transparent-line\"></div>\n<div class=\"transparent-line\"></div>\n",
+			"Nosotros",
+			"nosotros",
+			"Nosotros",
+			"nosotros",
+			"Nosotros",
+			"",
+			"elementor-vertical-align-bottom2",
+			"elementor-image-box-title2",
+			"elementor-image-box-description2",
+			"elementor-vertical-align-middle2",
+			"elementor-image-box-img2",
+			"lementor-vertical-align-top2",
+			"elementor-position-top2",
+			"elementor-position-right2",
+			"elementor-image-box-wrapper2",
+			"elementor-position-left2",
+			"elementor-image-box-content2",
+			"elementor-widget-image-box2",
+			"Aluminio",
+			"aluminio",
+			"Aluminio",
+			"aluminio",
+			"Aluminio",
+			"Ferrocarril",
+			"ferrocarril",
+			"Ferrocarril",
+			"Petroquimico",
+			"petroquimico",
+			"Petroquimico",
+			"Mineria",
+			"mineria",
+			"garantia",
+			"Garantía",
+			"Ferroviario",
+			"ferroviario",
+			"FERROVIARIO",
+			"Ferroviario",
+			"ferroviario",
+			"Ferroviario",
+			"siderurgico",
+			"Siderurgico",
+			"",
+			"Calidad",
+			"calidad",
+			"Calidad",
+			"calidad",
+			"Calidad",
+			"post-venta",
+			"Post-Venta",
+			"Servicios",
+			"servicios",
+			"Servicios",
+			"servicios",
+			"Servicios",
+			"Valores",
+			"valores",
+			"vision",
+			"blog.hppanama.net",
+			"https://blog.hppanama.net",
+			"Hidraulic & Power",
+			"https://blog.hppanama.net",
+			"blog.hppanama.net",
+			"Hidraulic & Power",
+			"",
+			"/index",
+			"https://hppanama.net",
+			"Hidraulic & Power",
+			"https://hppanama.net"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "guardar_acampante.php",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 16960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								6
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aventureros.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
